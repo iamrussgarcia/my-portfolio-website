@@ -1,0 +1,21 @@
+[
+  { "category": "frontend", "file": "frontend.jsx", "stage": "Stage: UI", "stageClass": "stage-red", "cmd": "npm run dev --frontend", "title": "Frontend", "status": "Build status", "count": "8 packages",
+    "tools": [
+      { "name": "HTML", "img": "html.webp" }, { "name": "CSS", "img": "css.webp" }, { "name": "JavaScript", "img": "javascript.webp" },
+      { "name": "Bootstrap", "img": "bootstrap.webp" }, { "name": "Materialize", "img": "materialize.webp" }, { "name": "Tailwind", "img": "tailwind.webp" },
+      { "name": "React", "img": "react.webp" }, { "name": "VueJS", "img": "vuejs.webp" } ] },
+  { "category": "backend", "file": "server.js", "stage": "Stage: API", "stageClass": "stage-green", "cmd": "node server.js --port=4000", "title": "Backend & Runtime", "status": "Server status", "count": "4 runtimes",
+    "tools": [
+      { "name": "NodeJS", "img": "nodejs.webp" }, { "name": "Express", "img": "express.webp", "cls": "logo-invert" },
+      { "name": "Laravel", "img": "laravel.webp" }, { "name": ".NET", "img": "dotnet.svg" } ] },
+  { "category": "languages", "file": "main.cpp", "stage": "Stage: Core", "stageClass": "stage-blue", "cmd": "g++ main.cpp && dotnet run", "title": "Languages", "status": "Compile status", "count": "4 languages",
+    "tools": [
+      { "name": "C#", "img": "csharp.webp" }, { "name": "C++", "img": "cpp.webp" }, { "name": "PHP", "img": "php.webp" }, { "name": "Java", "img": "java.webp" } ] },
+  { "category": "databases", "file": "schema.sql", "stage": "Stage: Data", "stageClass": "stage-gold", "cmd": "db.connect() // 3 engines", "title": "Databases", "status": "Connection pool", "count": "3 engines",
+    "tools": [
+      { "name": "MongoDB", "img": "mongodb.webp", "cls": "logo-pad" }, { "name": "MySQL", "img": "mysql.webp" }, { "name": "PostgreSQL", "img": "postgresql.webp" } ] },
+  { "category": "devtools", "file": "workflow.sh", "stage": "Stage: Ship", "stageClass": "stage-red", "cmd": "git push origin main", "title": "Dev Tools", "status": "Workflow status", "count": "5 tools",
+    "tools": [
+      { "name": "Git", "img": "git.webp", "cls": "logo-pad" }, { "name": "Postman", "icon": "bi-send-fill" }, { "name": "VSCode", "img": "vscode.webp" },
+      { "name": "Sublime", "img": "sublime.webp" }, { "name": "Claude Code", "img": "claude-code.webp" } ] }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "shelf": "featured",
+    "title": "REcipe",
+    "tag": "Capstone",
+    "flag": "Award Winner",
+    "image": "/images/projects/recipe.webp",
+    "tagline": "AI-powered food inventory & recipe app — 1st Runner-Up, Best Capstone",
+    "description": "A mobile app that uses AI-powered image recognition to automate food inventory tracking and cut household food waste, with expiration-date notifications and an algorithmic recipe generator that suggests meals from what's actually in the pantry. Delivered end-to-end: data ingestion, backend logic, and real-time sync via Supabase. Won 1st Runner-Up, Best Capstone Project at the Research Colloquium.",
+    "stack": [
+      "React Native",
+      "Python",
+      "AI Vision",
+      "Supabase"
+    ]
+  },
+  {
+    "id": 2,
+    "shelf": "featured",
+    "title": "Payroll System — World Odyssey Forwarders Inc.",
+    "shortTitle": "Payroll System",
+    "tag": "Client",
+    "image": "/images/projects/payroll.webp",
+    "tagline": "Payroll automation with a live dashboard",
+    "description": "Designed and built a secure payroll automation system streamlining salary computation, attendance tracking, and mandatory deductions. Built a responsive Vue.js dashboard to visualize payroll data, achieving 100% accuracy in net pay and deduction calculations, with role-based authentication restricting payroll data to authorized personnel.",
+    "stack": [
+      "Vue.js",
+      "RBAC",
+      "Dashboard"
+    ]
+  },
+  {
+    "id": 3,
+    "shelf": "featured",
+    "title": "The Beacon",
+    "tag": "Freelance",
+    "image": "/images/projects/the-beacon.webp",
+    "tagline": "CMS for a school publication board — freelance/client project",
+    "description": "Architected a content management system for a school publication board, streamlining the editorial workflow from drafting through multi-stage review to final approval. Implemented role-based access control (RBAC) across writer, editor, and admin roles for secure, structured data handling.",
+    "stack": [
+      "CMS",
+      "RBAC",
+      "Workflow"
+    ]
+  },
+  {
+    "id": 4,
+    "shelf": "featured",
+    "title": "Paradise Resort — Booking & Management Platform",
+    "shortTitle": "Paradise Resort",
+    "tag": "Full Stack",
+    "image": "/images/projects/paradise.webp",
+    "tagline": "A full-stack resort reservation system with real-time availability, business-rule-aware booking, and a complete admin back office.",
+    "description": "Laravel + React (Inertia) booking system with a multi-type reservation engine (time-slot conflict checks, capacity limits, blackout windows), package/discount management, and a role-gated admin dashboard with soft-delete/archive workflows and activity logging.",
+    "stack": [
+      "Laravel",
+      "React",
+      "Inertia"
+    ]
+  },
+  {
+    "id": 5,
+    "shelf": "featured",
+    "title": "Steve Hummer Homes LLC",
+    "tag": "Client",
+    "image": "/images/projects/stevesummer.webp",
+    "tagline": "A modern, conversion-focused marketing site for a real estate professional, built on Next.js 16 and React 19.",
+    "description": "A modern, conversion-focused marketing site for a real estate professional, built on Next.js 16 and React 19. Features a custom CMS for managing property listings, integrated with Supabase for real-time data updates and optimized for SEO and performance.",
+    "stack": [
+      "Next.js 16",
+      "React 19",
+      "Supabase"
+    ]
+  },
+  {
+    "id": 6,
+    "shelf": "featured",
+    "title": "Pawrfect Home",
+    "tag": "Full Stack",
+    "image": "/images/projects/pawrfect.webp",
+    "tagline": "Pet adoption platform connecting shelters and adopters",
+    "description": "A full-stack pet adoption platform connecting animal shelters with prospective adopters, improving match rates through better UI/UX and search filtering.",
+    "stack": [
+      "Full Stack",
+      "UI/UX",
+      "Search"
+    ]
+  },
+  {
+    "id": 7,
+    "shelf": "featured",
+    "title": "Spendly",
+    "tag": "PWA",
+    "flag": "In Development",
+    "image": "/images/projects/spendly.webp",
+    "tagline": "Offline-first PWA for expense tracking and budget insights",
+    "description": "A Progressive Web App for tracking personal expenses, managing budgets, and surfacing spending insights. Built offline-first with a service worker and IndexedDB queue, so transactions can be logged with no connection and sync automatically once back online. Currently in active development.",
+    "stack": [
+      "PWA",
+      "Service Worker",
+      "IndexedDB"
+    ]
+  },
+  {
+    "id": 8,
+    "shelf": "bootcamp",
+    "title": "E-commerce API Documentation",
+    "image": "/images/projects/ecommerce-api.webp",
+    "tag": "API Docs",
+    "tagline": "Dynamic E-Commerce Workflow Management",
+    "description": "Dynamic E Commerce Workflow Management. The system features dynamic routes for order processing, real time inventory updates, and secure user authentication. It also supports seamless automated order reporting and comprehensive product management. Documented Backend API published publicly using Postman.",
+    "link": "https://documenter.getpostman.com/view/58907583/2sBYHUSzkW",
+    "linkLabel": "View API Docs",
+    "stack": [
+      "REST API",
+      "Auth",
+      "Postman"
+    ]
+  },
+  {
+    "id": 9,
+    "shelf": "bootcamp",
+    "title": "Course Booking API Documentation",
+    "image": "/images/projects/course-booking-api.webp",
+    "tag": "API Docs",
+    "tagline": "RESTful API for managing course enrollments",
+    "description": "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details. Supports course creation, updates, archiving activation, and student enrollment. Publicly documented using Postman.",
+    "link": "https://documenter.getpostman.com/view/58907583/2sBYHYvJ4h",
+    "linkLabel": "View API Docs",
+    "stack": [
+      "REST API",
+      "Auth",
+      "Postman"
+    ]
+  },
+  {
+    "id": 10,
+    "shelf": "bootcamp",
+    "title": "Course Booking App",
+    "image": "/images/projects/course-booking-app.webp",
+    "tag": "MERN",
+    "tagline": "A MERN-stack course enrollment system",
+    "description": "A MERN-stack course enrollment system featuring user registration, authentication, and profile management. Authenticated users can create, update, archive, and activate courses. The platform also allows users to browse available courses and enroll seamlessly.",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 11,
+    "shelf": "bootcamp",
+    "title": "E-commerce App",
+    "image": "/images/projects/ecommerce-app.webp",
+    "tag": "MERN",
+    "tagline": "MERN E-Commerce Platform",
+    "description": "MERN E-Commerce Platform. The platform features dynamic product catalog with filtering and sorting, real-time search, seamless cart updates, secure checkout, and a comprehensive admin dashboard with real-time analytics and user management capabilities.",
+    "link": "http://zuitt-bootcamp-prod-645-10069-garcia.s3-website.us-east-1.amazonaws.com/games",
+    "linkLabel": "Visit Live App",
+    "stack": [
+      "MongoDB",
+      "Express",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "id": 12,
+    "shelf": "bootcamp",
+    "title": "Airline Booking System Mockup",
+    "image": "/images/projects/airline-mockup.webp",
+    "tag": "Side Project",
+    "tagline": "Conceptual design for flight search, seat selection, and booking confirmation",
+    "description": "Side Project: Conceptual design showcasing an intuitive UI for flight search, seat selection, and booking confirmation, focusing on user experience and workflow efficiency.",
+    "stack": [
+      "UI/UX",
+      "Mockup"
+    ]
+  },
+  {
+    "id": 13,
+    "shelf": "bootcamp",
+    "title": "Airline Booking System Prototype",
+    "image": "/images/projects/airline-prototype.webp",
+    "tag": "Side Project",
+    "tagline": "Interactive prototype simulating end-to-end airline booking",
+    "description": "Side Project: Interactive prototype simulating end-to-end airline booking functionalities, including flight search, reservation, payment processing, and real-time ticket management.",
+    "stack": [
+      "Prototype",
+      "Booking Flow"
+    ]
+  },
+  {
+    "id": 14,
+    "shelf": "bootcamp",
+    "title": "Short Courses Capstone",
+    "image": "/images/projects/short-courses-capstone.webp",
+    "tag": "Capstone",
+    "tagline": "Short courses capstone project",
+    "description": "Placeholder for your Short courses capstone project.",
+    "stack": [
+      "Capstone"
+    ]
+  }
+]

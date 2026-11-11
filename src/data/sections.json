@@ -1,0 +1,6 @@
+[
+  { "id": "landing", "title": "Home", "sub": "Russ Peter Garcia — Full Stack Web Developer & Software Engineer", "icon": "bi-house-door", "keywords": "about hero intro russ peter garcia full stack web developer software engineer" },
+  { "id": "projects", "title": "Projects", "sub": "Client, capstone & bootcamp releases", "icon": "bi-collection-play", "keywords": "work portfolio shelf releases" },
+  { "id": "tools", "title": "Tools", "sub": "Languages, frameworks, databases & dev tools", "icon": "bi-tools", "keywords": "stack skills tech toolkit" },
+  { "id": "contact", "title": "Contact", "sub": "Send a message or hire me", "icon": "bi-envelope", "keywords": "hire email message inquiry form reach" }
+]
