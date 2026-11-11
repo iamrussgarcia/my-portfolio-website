@@ -66,7 +66,9 @@
         notyf.error('An error occurred. Please try again.')
       }
     } catch (error) {
-      notyf.error('Failed to send message.')
+      const reason = error.response?.data?.message
+      console.error('Web3Forms error:', error.response?.data || error)
+      notyf.error(reason || 'Failed to send message.')
     } finally {
       sending.value = false
       resetRecaptcha()
