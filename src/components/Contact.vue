@@ -48,8 +48,7 @@
         email: form.email,
         scope: form.scope,
         timeline: form.timeline,
-        message: form.message,
-        'g-recaptcha-response': recaptchaToken.value,
+        message: form.message
       }, {
         headers: {
           "Content-Type": "application/json",
